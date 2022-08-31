@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c94d9eb0-dd0e-4c35-9fe9-ffc18e0a4526" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Equality.java" afterDir="false" />
+    <list default="true" id="c94d9eb0-dd0e-4c35-9fe9-ffc18e0a4526" name="Changes" comment="updated lambdas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dungeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Dungeon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dungeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Dungeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Equality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Equality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Generic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Operations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Suction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Suction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Sucktion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Sucktion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +66,16 @@
       <option name="presentableId" value="Default" />
       <updated>1661886314795</updated>
       <workItem from="1661886316003" duration="2253000" />
-      <workItem from="1661970013128" duration="1405000" />
+      <workItem from="1661970013128" duration="2371000" />
     </task>
+    <task id="LOCAL-00001" summary="updated lambdas">
+      <created>1661971679143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661971679143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated lambdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated lambdas" />
   </component>
 </project>

@@ -1,5 +1,9 @@
 package org.example;
 
+import org.example.interfaces.*;
+
+import java.util.function.Predicate;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -21,7 +25,6 @@ public class Main {
         int result = calc.calculate(10, 14);
         int dung = dungeon.slave(32);
 
-
         System.out.println(dung);
         System.out.println(result);
         System.out.println(sup);
@@ -36,6 +39,11 @@ public class Main {
 
         Sucktion vanish = changeLambda("Aniki");
         vanish.suck();
+
+        Predicate<Integer> predicate = (x)->x<0;
+
+        System.out.println(predicate.test(10));
+        System.out.println(predicate.test(-12321));
     }
 
     public static int summarize(int[] array, Equality eq) {
